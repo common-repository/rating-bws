@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-09-12 15:38+0300\n"
+"PO-Revision-Date: 2024-09-12 15:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-rtng-settings.php:26 rating-bws.php:36 rating-bws.php:1728
+#: rating-bws.php:1741
+#, fuzzy
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: includes/class-rtng-settings.php:27 includes/class-rtng-settings.php:476
+msgid "Appearance"
+msgstr "المظهر"
+
+#: includes/class-rtng-settings.php:28
+msgid "Misc"
+msgstr "متفرقات"
+
+#: includes/class-rtng-settings.php:29
+msgid "Custom Code"
+msgstr "كود مخصص"
+
+#: includes/class-rtng-settings.php:30
+msgid "Licence Key"
+msgstr "مفتاح الترخيص"
+
+#: includes/class-rtng-settings.php:146
+msgid "Settings saved."
+msgstr "تم حفظ الإعدادات."
+
+#: includes/class-rtng-settings.php:182 rating-bws.php:35 rating-bws.php:36
+#: rating-bws.php:286
+msgid "Rating Settings"
+msgstr "إعدادات التصنيف"
+
+#: includes/class-rtng-settings.php:187
+msgid "Add Rating to"
+msgstr "إضافة تقييم إلى"
+
+#: includes/class-rtng-settings.php:209
+msgid "Testimonials Review Form"
+msgstr "نموذج مراجعة الشهادات"
+
+#: includes/class-rtng-settings.php:217
+msgid "Number of Titles"
+msgstr "عدد العناوين"
+
+#: includes/class-rtng-settings.php:223
+msgid "Review Title"
+msgstr "مراجعة العنوان"
+
+#: includes/class-rtng-settings.php:233
+#, php-format
+msgid "Review Title %1$s %2$d"
+msgstr "عنوان المراجعة %1$s %2$d"
+
+#: includes/class-rtng-settings.php:248
+msgid "Activate"
+msgstr "تفعيل"
+
+#: includes/class-rtng-settings.php:252
+msgid "Download"
+msgstr "تحميل"
+
+#: includes/class-rtng-settings.php:257
+msgid "Testimonial Reviews"
+msgstr "مراجعات الشهادات"
+
+#: includes/class-rtng-settings.php:269
+msgid "Average Rating Position"
+msgstr "متوسط مركز التقييم"
+
+#: includes/class-rtng-settings.php:280 includes/class-rtng-settings.php:323
+msgid "Before the content"
+msgstr "قبل المحتوى"
+
+#: includes/class-rtng-settings.php:291 includes/class-rtng-settings.php:334
+msgid "After the content"
+msgstr "بعد المحتوى"
+
+#: includes/class-rtng-settings.php:297
+msgid "Combine Average and My Rating Blocks"
+msgstr "الجمع بين كتلتي \"المتوسط\" و\"تقييمي"
+
+#: includes/class-rtng-settings.php:307
+msgid "Enable to use a single rating block."
+msgstr "تمكين استخدام كتلة تصنيف واحدة."
+
+#: includes/class-rtng-settings.php:312
+msgid "My Rating Position"
+msgstr "موضع تقييمي"
+
+#: includes/class-rtng-settings.php:345
+msgid "In comments"
+msgstr "في التعليقات"
+
+#: includes/class-rtng-settings.php:351
+msgid "Required Rating"
+msgstr "التقييم المطلوب"
+
+#: includes/class-rtng-settings.php:356
+msgid "Enable to make the rating required for comment submission."
+msgstr "تمكين إجراء التقييم المطلوب لتقديم التعليقات."
+
+#: includes/class-rtng-settings.php:362
+msgid "Change Rating"
+msgstr "تغيير التصنيف"
+
+#: includes/class-rtng-settings.php:367
+msgid "Enable to allow users change their rating."
+msgstr "تمكين للسماح للمستخدمين بتغيير تقييمهم."
+
+#: includes/class-rtng-settings.php:376 includes/class-rtng-settings.php:483
+msgid "Close"
+msgstr "إغلاق"
+
+#: includes/class-rtng-settings.php:380
+msgid "Show Rating in Posts"
+msgstr "إظهار التقييم في المنشورات"
+
+#: includes/class-rtng-settings.php:388
+#, php-format
+msgid "Enable to display average rating in the list of %s and"
+msgstr "التمكين لعرض متوسط التقييم في قائمة %s و"
+
+#: includes/class-rtng-settings.php:391
+msgid "posts"
+msgstr "المشاركات"
+
+#: includes/class-rtng-settings.php:396
+msgid "pages."
+msgstr "الصفحات."
+
+#: includes/class-rtng-settings.php:410
+msgid "Schema Markup"
+msgstr "ترميز المخطط"
+
+#: includes/class-rtng-settings.php:419
+#, php-format
+msgid "Enable to add JSON-LD rating %s markup."
+msgstr "تمكين إضافة ترميز تصنيف JSON-LD %s."
+
+#: includes/class-rtng-settings.php:422 rating-bws.php:1339
+msgid "schema"
+msgstr "المخطط"
+
+#: includes/class-rtng-settings.php:427
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#: includes/class-rtng-settings.php:436
+msgid "Minimum Rating to Add Schema"
+msgstr "الحد الأدنى من التقييم لإضافة مخطط"
+
+#: includes/class-rtng-settings.php:439
+msgid ""
+"Schema markup will not be included if post rating goes under this value."
+msgstr "لن يتم تضمين ترميز المخطط إذا كان تصنيف المشاركة أقل من هذه القيمة."
+
+#: includes/class-rtng-settings.php:444
+msgid "Enable Rating for"
+msgstr "تمكين التقييم ل"
+
+#: includes/class-rtng-settings.php:456
+msgid "All"
+msgstr "الكل"
+
+#: includes/class-rtng-settings.php:464
+msgid "Guest"
+msgstr "زائر"
+
+#: includes/class-rtng-settings.php:487
+msgid "Number of Stars"
+msgstr "عدد النجوم"
+
+#: includes/class-rtng-settings.php:499
+msgid "Star Color"
+msgstr "لون النجمة"
+
+#: includes/class-rtng-settings.php:505
+msgid "Star Color on Hover"
+msgstr "لون النجمة عند التحويم"
+
+#: includes/class-rtng-settings.php:511
+msgid "Star Size"
+msgstr "حجم النجوم"
+
+#: includes/class-rtng-settings.php:513 includes/class-rtng-settings.php:525
+msgid "px"
+msgstr "بكسل"
+
+#: includes/class-rtng-settings.php:517
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: includes/class-rtng-settings.php:523
+msgid "Text Font Size"
+msgstr "حجم خط النص"
+
+#: includes/class-rtng-settings.php:529
+msgid "Average Rating Title"
+msgstr "عنوان التقييم المتوسط"
+
+#: includes/class-rtng-settings.php:535
+msgid "Average Rating Text"
+msgstr "متوسط نص التقييم"
+
+#: includes/class-rtng-settings.php:542
+#, php-format
+msgid "Use %s to insert current rate."
+msgstr "استخدم %s لإدراج المعدل الحالي."
+
+#: includes/class-rtng-settings.php:548
+#, php-format
+msgid "Use %s to insert rates count."
+msgstr "استخدم %s لإدراج عدد المعدلات."
+
+#: includes/class-rtng-settings.php:556 rating-bws.php:225 rating-bws.php:228
+msgid "My Rating"
+msgstr "تقييمي"
+
+#: includes/class-rtng-settings.php:562
+msgid "Authorization Required Text"
+msgstr "النص المطلوب التفويض"
+
+#: includes/class-rtng-settings.php:569
+#, php-format
+msgid "Use %s to insert login link."
+msgstr "استخدم %s لإدراج رابط تسجيل الدخول."
+
+#: includes/class-rtng-settings.php:577
+msgid "Thank You Message"
+msgstr "رسالة شكر"
+
+#: includes/class-rtng-settings.php:582
+msgid "This message will be displayed after the rating is submitted."
+msgstr "سيتم عرض هذه الرسالة بعد تقديم التقييم."
+
+#: includes/class-rtng-settings.php:587
+msgid "No Permissions Message"
+msgstr "رسالة لا توجد أذونات"
+
+#: includes/class-rtng-settings.php:592
+msgid "This message will be displayed if user role is disabled."
+msgstr "سيتم عرض هذه الرسالة إذا تم تعطيل دور المستخدم."
+
+#: includes/class-rtng-settings.php:597
+msgid "Rating Already Submitted Message"
+msgstr "رسالة التقييم المقدمة بالفعل"
+
+#: includes/class-rtng-settings.php:602
+msgid "This message will be displayed if the user has already rated the post."
+msgstr "سيتم عرض هذه الرسالة إذا كان المستخدم قد قام بتقييم المنشور بالفعل."
+
+#: includes/class-rtng-settings.php:614 rating-bws.php:1305
+msgid "Rating"
+msgstr "تقييم"
+
+#: includes/class-rtng-settings.php:617
+msgid ""
+"If you would like to add rating to your page or post, please use next "
+"shortcode:"
+msgstr ""
+"إذا كنت ترغب في إضافة تقييم إلى صفحتك أو منشورك، يُرجى استخدام الرمز القصير "
+"التالي:"
+
+#: rating-bws.php:41
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى الاصدار المدفوع"
+
+#: rating-bws.php:224 rating-bws.php:1548
+msgid "Average Rating"
+msgstr "متوسط التقييم"
+
+#: rating-bws.php:229
+#, php-format
+msgid "%1$s out of 5 stars. %2$s votes."
+msgstr "%1$s من 5 نجوم %2$s أصوات."
+
+#: rating-bws.php:230
+#, php-format
+msgid "You should %s to submit a review."
+msgstr "يجب عليك %s لإرسال مراجعة."
+
+#: rating-bws.php:230
+msgid "log in"
+msgstr "تسجيل الدخول"
+
+#: rating-bws.php:231
+msgid "Thank you!"
+msgstr "شكرا لك!"
+
+#: rating-bws.php:232
+msgid "You cannot submit ratings."
+msgstr "لا يمكنك إرسال التقييمات."
+
+#: rating-bws.php:233
+msgid "You have already rated this post."
+msgstr "لقد قمت بتقييم هذا المنشور بالفعل."
+
+#: rating-bws.php:289
+msgid "Please, enable JavaScript in your browser."
+msgstr "من فضلك، قم بتمكين JavaScript في متصفحك."
+
+#: rating-bws.php:473 rating-bws.php:582
+msgid "Post ID is required"
+msgstr "مطلوب معرف المنشور"
+
+#: rating-bws.php:477 rating-bws.php:598
+msgid "Specified User IP is invalid"
+msgstr "عنوان IP المحدد للمستخدم غير صالح"
+
+#: rating-bws.php:586
+msgid "User or comment ID is required"
+msgstr "مطلوب معرف المستخدم أو معرف التعليق"
+
+#: rating-bws.php:593
+msgid "Rating is required"
+msgstr "التصنيف مطلوب"
+
+#: rating-bws.php:899 rating-bws.php:1066
+msgid "Rate"
+msgstr "التقييم"
+
+#: rating-bws.php:906
+msgid "No rating yet"
+msgstr "لا يوجد تقييم بعد"
+
+#: rating-bws.php:1329
+msgid "Exclude schema"
+msgstr "استبعاد المخطط"
+
+#: rating-bws.php:1336
+#, php-format
+msgid "Enable to exclude JSON-LD %s markup."
+msgstr "تمكين لاستبعاد ترميز JSON-LD %s."
+
+#: rating-bws.php:1507
+msgid "Error: Rating is required"
+msgstr "خطأ: التقييم مطلوب"
+
+#: rating-bws.php:1511
+msgid "Error: Rating is required."
+msgstr "خطأ: التقييم مطلوب."
+
+#: rating-bws.php:1531 rating-bws.php:1538
+msgid "Use plugin settings"
+msgstr "استخدام إعدادات المكون الإضافي"
+
+#: rating-bws.php:1532
+msgid "Average Rating Only"
+msgstr "متوسط التقييم فقط"
+
+#: rating-bws.php:1533
+msgid "Rate Option Only"
+msgstr "خيار السعر فقط"
+
+#: rating-bws.php:1534
+msgid "Average Rating and Rate Option"
+msgstr "خيار متوسط التقييم والتقييم"
+
+#: rating-bws.php:1535
+msgid "Combined"
+msgstr "مدموج"
+
+#: rating-bws.php:1539
+msgid "Include"
+msgstr "التضمين"
+
+#: rating-bws.php:1540
+msgid "Exclude"
+msgstr "استبعاد"
+
+#: rating-bws.php:1544
+msgid "Select Shortcode"
+msgstr "حدد كود مختصر"
+
+#: rating-bws.php:1546
+msgid "Rating Block"
+msgstr "كتلة التصنيف"
+
+#: rating-bws.php:1547
+msgid "Total Rates Number"
+msgstr "إجمالي عدد المعدلات الإجمالية"
+
+#: rating-bws.php:1549
+msgid "Max Stars Available"
+msgstr "الحد الأقصى للنجوم المتاحة"
+
+#: rating-bws.php:1552
+msgid "Add Rating block to your page or post"
+msgstr "إضافة مكوِّن التقييم إلى صفحتك أو منشورك"
+
+#: rating-bws.php:1556
+msgid "Display"
+msgstr "عرض"
+
+#: rating-bws.php:1562
+msgid "rating block title"
+msgstr "عنوان كتلة التصنيف"
+
+#: rating-bws.php:1567
+msgid "rating block text"
+msgstr "نص كتلة التصنيف"
+
+#: rating-bws.php:1574
+msgid "Output"
+msgstr "الإخراج"
+
+#: rating-bws.php:1584
+msgid "Schema"
+msgstr "مخطط"
+
+#: rating-bws.php:1595
+msgid "Display total number of ratings."
+msgstr "عرض العدد الإجمالي للتقييمات."
+
+#: rating-bws.php:1598
+msgid "Display average post rating."
+msgstr "عرض متوسط تقييم المشاركة."
+
+#: rating-bws.php:1601
+msgid "Display available number of stars."
+msgstr "عرض عدد النجوم المتاحة."
+
+#: rating-bws.php:1743
+msgid "FAQ"
+msgstr "الأسئلة الشائعة"
+
+#: rating-bws.php:1744
+msgid "Support"
+msgstr "الدعم"

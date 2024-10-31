@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-09-12 15:38+0300\n"
+"PO-Revision-Date: 2024-09-12 15:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bws_menu\n"
+
+#: includes/class-rtng-settings.php:26 rating-bws.php:36 rating-bws.php:1728
+#: rating-bws.php:1741
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class-rtng-settings.php:27 includes/class-rtng-settings.php:476
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: includes/class-rtng-settings.php:28
+msgid "Misc"
+msgstr "Varie"
+
+#: includes/class-rtng-settings.php:29
+msgid "Custom Code"
+msgstr "Codice personalizzato"
+
+#: includes/class-rtng-settings.php:30
+msgid "Licence Key"
+msgstr "Chiave di licenza"
+
+#: includes/class-rtng-settings.php:146
+msgid "Settings saved."
+msgstr "Impostazioni salvate."
+
+#: includes/class-rtng-settings.php:182 rating-bws.php:35 rating-bws.php:36
+#: rating-bws.php:286
+msgid "Rating Settings"
+msgstr "Impostazioni di valutazione"
+
+#: includes/class-rtng-settings.php:187
+msgid "Add Rating to"
+msgstr "Aggiungi valutazione a"
+
+#: includes/class-rtng-settings.php:209
+msgid "Testimonials Review Form"
+msgstr "Modulo di revisione delle testimonianze"
+
+#: includes/class-rtng-settings.php:217
+msgid "Number of Titles"
+msgstr "Numero di titoli"
+
+#: includes/class-rtng-settings.php:223
+msgid "Review Title"
+msgstr "Titolo Recensione"
+
+#: includes/class-rtng-settings.php:233
+#, php-format
+msgid "Review Title %1$s %2$d"
+msgstr "Titolo della recensione %1$s %2$d"
+
+#: includes/class-rtng-settings.php:248
+msgid "Activate"
+msgstr "Attivare"
+
+#: includes/class-rtng-settings.php:252
+msgid "Download"
+msgstr "Download"
+
+#: includes/class-rtng-settings.php:257
+msgid "Testimonial Reviews"
+msgstr "Recensioni di testimonial"
+
+#: includes/class-rtng-settings.php:269
+msgid "Average Rating Position"
+msgstr "Posizione media di valutazione"
+
+#: includes/class-rtng-settings.php:280 includes/class-rtng-settings.php:323
+msgid "Before the content"
+msgstr "Prima del contenuto"
+
+#: includes/class-rtng-settings.php:291 includes/class-rtng-settings.php:334
+msgid "After the content"
+msgstr "Dopo il contenuto"
+
+#: includes/class-rtng-settings.php:297
+msgid "Combine Average and My Rating Blocks"
+msgstr "Combinare i blocchi Media e La mia valutazione"
+
+#: includes/class-rtng-settings.php:307
+msgid "Enable to use a single rating block."
+msgstr "Abilita l'uso di un singolo blocco di valutazione."
+
+#: includes/class-rtng-settings.php:312
+msgid "My Rating Position"
+msgstr "La mia posizione di valutazione"
+
+#: includes/class-rtng-settings.php:345
+msgid "In comments"
+msgstr "Nei commenti"
+
+#: includes/class-rtng-settings.php:351
+msgid "Required Rating"
+msgstr "Valutazione richiesta"
+
+#: includes/class-rtng-settings.php:356
+msgid "Enable to make the rating required for comment submission."
+msgstr ""
+"Consente di effettuare la valutazione richiesta per l'invio dei commenti."
+
+#: includes/class-rtng-settings.php:362
+msgid "Change Rating"
+msgstr "Cambiamento di valutazione"
+
+#: includes/class-rtng-settings.php:367
+msgid "Enable to allow users change their rating."
+msgstr ""
+"Abilitare per consentire agli utenti di modificare la propria valutazione."
+
+#: includes/class-rtng-settings.php:376 includes/class-rtng-settings.php:483
+msgid "Close"
+msgstr "Chiudere"
+
+#: includes/class-rtng-settings.php:380
+msgid "Show Rating in Posts"
+msgstr "Mostra la valutazione nei messaggi"
+
+#: includes/class-rtng-settings.php:388
+#, php-format
+msgid "Enable to display average rating in the list of %s and"
+msgstr ""
+"Abilitare la visualizzazione della valutazione media nell'elenco di %s e"
+
+#: includes/class-rtng-settings.php:391
+msgid "posts"
+msgstr "articoli"
+
+#: includes/class-rtng-settings.php:396
+msgid "pages."
+msgstr "pagine."
+
+#: includes/class-rtng-settings.php:410
+msgid "Schema Markup"
+msgstr "Schema Markup"
+
+#: includes/class-rtng-settings.php:419
+#, php-format
+msgid "Enable to add JSON-LD rating %s markup."
+msgstr "Consente di aggiungere il markup JSON-LD rating %s."
+
+#: includes/class-rtng-settings.php:422 rating-bws.php:1339
+msgid "schema"
+msgstr "schema"
+
+#: includes/class-rtng-settings.php:427
+msgid "Learn More"
+msgstr "Leggi di più"
+
+#: includes/class-rtng-settings.php:436
+msgid "Minimum Rating to Add Schema"
+msgstr "Valutazione minima per aggiungere lo schema"
+
+#: includes/class-rtng-settings.php:439
+msgid ""
+"Schema markup will not be included if post rating goes under this value."
+msgstr ""
+"Il markup Schema non sarà incluso se la valutazione del post è inferiore a "
+"questo valore."
+
+#: includes/class-rtng-settings.php:444
+msgid "Enable Rating for"
+msgstr "Abilita la valutazione per"
+
+#: includes/class-rtng-settings.php:456
+msgid "All"
+msgstr "Tutti"
+
+#: includes/class-rtng-settings.php:464
+msgid "Guest"
+msgstr "Ospite"
+
+#: includes/class-rtng-settings.php:487
+msgid "Number of Stars"
+msgstr "Numero di stelle"
+
+#: includes/class-rtng-settings.php:499
+msgid "Star Color"
+msgstr "Colore Stella"
+
+#: includes/class-rtng-settings.php:505
+msgid "Star Color on Hover"
+msgstr "Colore delle stelle al passaggio del mouse"
+
+#: includes/class-rtng-settings.php:511
+msgid "Star Size"
+msgstr "Dimensione Stella"
+
+#: includes/class-rtng-settings.php:513 includes/class-rtng-settings.php:525
+msgid "px"
+msgstr "px"
+
+#: includes/class-rtng-settings.php:517
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: includes/class-rtng-settings.php:523
+msgid "Text Font Size"
+msgstr "Dimensione Font testo"
+
+#: includes/class-rtng-settings.php:529
+msgid "Average Rating Title"
+msgstr "Valutazione media Titolo"
+
+#: includes/class-rtng-settings.php:535
+msgid "Average Rating Text"
+msgstr "Valutazione media Testo"
+
+#: includes/class-rtng-settings.php:542
+#, php-format
+msgid "Use %s to insert current rate."
+msgstr "Utilizzare %s per inserire la tariffa corrente."
+
+#: includes/class-rtng-settings.php:548
+#, php-format
+msgid "Use %s to insert rates count."
+msgstr "Utilizzare %s per inserire il conteggio dei tassi."
+
+#: includes/class-rtng-settings.php:556 rating-bws.php:225 rating-bws.php:228
+msgid "My Rating"
+msgstr "La mia valutazione"
+
+#: includes/class-rtng-settings.php:562
+msgid "Authorization Required Text"
+msgstr "Autorizzazione Testo richiesto"
+
+#: includes/class-rtng-settings.php:569
+#, php-format
+msgid "Use %s to insert login link."
+msgstr "Utilizzare %s per inserire il link di accesso."
+
+#: includes/class-rtng-settings.php:577
+msgid "Thank You Message"
+msgstr "Messaggio di ringraziamento"
+
+#: includes/class-rtng-settings.php:582
+msgid "This message will be displayed after the rating is submitted."
+msgstr "Questo messaggio verrà visualizzato dopo l'invio della valutazione."
+
+#: includes/class-rtng-settings.php:587
+msgid "No Permissions Message"
+msgstr "Messaggio di assenza di autorizzazioni"
+
+#: includes/class-rtng-settings.php:592
+msgid "This message will be displayed if user role is disabled."
+msgstr ""
+"Questo messaggio viene visualizzato se il ruolo dell'utente è disabilitato."
+
+#: includes/class-rtng-settings.php:597
+msgid "Rating Already Submitted Message"
+msgstr "Valutazione Messaggio già inviato"
+
+#: includes/class-rtng-settings.php:602
+msgid "This message will be displayed if the user has already rated the post."
+msgstr ""
+"Questo messaggio viene visualizzato se l'utente ha già valutato il post."
+
+#: includes/class-rtng-settings.php:614 rating-bws.php:1305
+msgid "Rating"
+msgstr "Valutazione"
+
+#: includes/class-rtng-settings.php:617
+msgid ""
+"If you would like to add rating to your page or post, please use next "
+"shortcode:"
+msgstr ""
+"Se desiderate aggiungere una valutazione alla vostra pagina o al vostro "
+"post, utilizzate il seguente shortcode:"
+
+#: rating-bws.php:41
+msgid "Upgrade to Pro"
+msgstr "Aggiornamento a Pro"
+
+#: rating-bws.php:224 rating-bws.php:1548
+msgid "Average Rating"
+msgstr "Valutazione Media"
+
+#: rating-bws.php:229
+#, php-format
+msgid "%1$s out of 5 stars. %2$s votes."
+msgstr "%1$s su 5 stelle. %2$s voti."
+
+#: rating-bws.php:230
+#, php-format
+msgid "You should %s to submit a review."
+msgstr "È necessario %s per inviare una recensione."
+
+#: rating-bws.php:230
+msgid "log in"
+msgstr "accedi"
+
+#: rating-bws.php:231
+msgid "Thank you!"
+msgstr "Grazie!"
+
+#: rating-bws.php:232
+msgid "You cannot submit ratings."
+msgstr "Non è possibile inviare valutazioni."
+
+#: rating-bws.php:233
+msgid "You have already rated this post."
+msgstr "Hai già valutato questo post."
+
+#: rating-bws.php:289
+msgid "Please, enable JavaScript in your browser."
+msgstr "Abilitare JavaScript nel browser."
+
+#: rating-bws.php:473 rating-bws.php:582
+msgid "Post ID is required"
+msgstr "L'ID del post è richiesto"
+
+#: rating-bws.php:477 rating-bws.php:598
+msgid "Specified User IP is invalid"
+msgstr "L'IP utente specificato non è valido"
+
+#: rating-bws.php:586
+msgid "User or comment ID is required"
+msgstr "È richiesto l'ID dell'utente o del commento"
+
+#: rating-bws.php:593
+msgid "Rating is required"
+msgstr "La valutazione è necessaria"
+
+#: rating-bws.php:899 rating-bws.php:1066
+msgid "Rate"
+msgstr "Tasso"
+
+#: rating-bws.php:906
+msgid "No rating yet"
+msgstr "Nessuna valutazione ancora"
+
+#: rating-bws.php:1329
+msgid "Exclude schema"
+msgstr "Escludere lo schema"
+
+#: rating-bws.php:1336
+#, php-format
+msgid "Enable to exclude JSON-LD %s markup."
+msgstr "Abilita l'esclusione del markup JSON-LD %s."
+
+#: rating-bws.php:1507
+msgid "Error: Rating is required"
+msgstr "Errore: La valutazione è necessaria"
+
+#: rating-bws.php:1511
+msgid "Error: Rating is required."
+msgstr "Errore: La valutazione è necessaria."
+
+#: rating-bws.php:1531 rating-bws.php:1538
+msgid "Use plugin settings"
+msgstr "Utilizzare le impostazioni del plugin"
+
+#: rating-bws.php:1532
+msgid "Average Rating Only"
+msgstr "Solo valutazione media"
+
+#: rating-bws.php:1533
+msgid "Rate Option Only"
+msgstr "Solo opzione tariffaria"
+
+#: rating-bws.php:1534
+msgid "Average Rating and Rate Option"
+msgstr "Valutazione media e opzione tariffaria"
+
+#: rating-bws.php:1535
+msgid "Combined"
+msgstr "Combinato"
+
+#: rating-bws.php:1539
+msgid "Include"
+msgstr "Includi"
+
+#: rating-bws.php:1540
+msgid "Exclude"
+msgstr "Escludi"
+
+#: rating-bws.php:1544
+msgid "Select Shortcode"
+msgstr "Scegli uno shortcode"
+
+#: rating-bws.php:1546
+msgid "Rating Block"
+msgstr "Blocco di valutazione"
+
+#: rating-bws.php:1547
+msgid "Total Rates Number"
+msgstr "Totale tariffe Numero"
+
+#: rating-bws.php:1549
+msgid "Max Stars Available"
+msgstr "Stelle massime disponibili"
+
+#: rating-bws.php:1552
+msgid "Add Rating block to your page or post"
+msgstr "Aggiungere un blocco di valutazione alla pagina o al post"
+
+#: rating-bws.php:1556
+msgid "Display"
+msgstr "Display"
+
+#: rating-bws.php:1562
+msgid "rating block title"
+msgstr "titolo del blocco di valutazione"
+
+#: rating-bws.php:1567
+msgid "rating block text"
+msgstr "testo del blocco di valutazione"
+
+#: rating-bws.php:1574
+msgid "Output"
+msgstr "Uscita"
+
+#: rating-bws.php:1584
+msgid "Schema"
+msgstr "Schema"
+
+#: rating-bws.php:1595
+msgid "Display total number of ratings."
+msgstr "Visualizza il numero totale di valutazioni."
+
+#: rating-bws.php:1598
+msgid "Display average post rating."
+msgstr "Visualizzazione della valutazione media dei post."
+
+#: rating-bws.php:1601
+msgid "Display available number of stars."
+msgstr "Visualizza il numero di stelle disponibili."
+
+#: rating-bws.php:1743
+msgid "FAQ"
+msgstr "FAQ"
+
+#: rating-bws.php:1744
+msgid "Support"
+msgstr "Supporto"
